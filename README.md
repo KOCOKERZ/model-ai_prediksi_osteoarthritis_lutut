@@ -1,4 +1,4 @@
-Berikut adalah penjelasan lengkap dari kode yang diberikan:
+Penjelasan :
 
 ### Import Library
 
